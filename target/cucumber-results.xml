@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="73.105088">
+<testcase classname="As a new moneygaming.com player" name="JOIN Now into Moneygaming website" time="73.105088">
+<system-out><![CDATA[Given I navigated to moneygaming.com........................................passed
+When I click on JOIN NOW Link...............................................passed
+And I Select a title as "Mr" from the dropdown..............................passed
+And I Enter your first name as "John" in the form...........................passed
+And I Enter your sure name as "Paul"  in the form...........................passed
+And I Check the tickbox with text I accept the Terms and Conditions and certify that I am ove the age of 18.passed
+And I Submit the form by clicking the JOIN NOW button.......................passed
+Then I Validate that a validation message with text "This field is required" appears under the date of   birth box.passed
+]]></system-out>
+</testcase>
+</testsuite>

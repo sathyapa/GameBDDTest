@@ -1,0 +1,146 @@
+[
+  {
+    "source": "^I Enter your sure name as \"([^\"]*)\"  in the form$",
+    "steps": [
+      {
+        "name": "I Enter your sure name as \"Paul\"  in the form",
+        "aggregatedDurations": {
+          "average": 0.3171136,
+          "median": 0.3171136
+        },
+        "durations": [
+          {
+            "duration": 0.3171136,
+            "location": "src/test/resources/features/PlayOnlineCasinoGame.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I navigated to moneygaming.com$",
+    "steps": [
+      {
+        "name": "I navigated to moneygaming.com",
+        "aggregatedDurations": {
+          "average": 36.282543901,
+          "median": 36.282543901
+        },
+        "durations": [
+          {
+            "duration": 36.282543901,
+            "location": "src/test/resources/features/PlayOnlineCasinoGame.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I Check the tickbox with text I accept the Terms and Conditions and certify that I am ove the age of 18$",
+    "steps": [
+      {
+        "name": "I Check the tickbox with text I accept the Terms and Conditions and certify that I am ove the age of 18",
+        "aggregatedDurations": {
+          "average": 0.652393699,
+          "median": 0.652393699
+        },
+        "durations": [
+          {
+            "duration": 0.652393699,
+            "location": "src/test/resources/features/PlayOnlineCasinoGame.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I Validate that a validation message with text \"([^\"]*)\" appears under the date of   birth box$",
+    "steps": [
+      {
+        "name": "I Validate that a validation message with text \"This field is required\" appears under the date of   birth box",
+        "aggregatedDurations": {
+          "average": 0.133691301,
+          "median": 0.133691301
+        },
+        "durations": [
+          {
+            "duration": 0.133691301,
+            "location": "src/test/resources/features/PlayOnlineCasinoGame.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click on JOIN NOW Link$",
+    "steps": [
+      {
+        "name": "I click on JOIN NOW Link",
+        "aggregatedDurations": {
+          "average": 31.7132294,
+          "median": 31.7132294
+        },
+        "durations": [
+          {
+            "duration": 31.7132294,
+            "location": "src/test/resources/features/PlayOnlineCasinoGame.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I Submit the form by clicking the JOIN NOW button$",
+    "steps": [
+      {
+        "name": "I Submit the form by clicking the JOIN NOW button",
+        "aggregatedDurations": {
+          "average": 0.7595758,
+          "median": 0.7595758
+        },
+        "durations": [
+          {
+            "duration": 0.7595758,
+            "location": "src/test/resources/features/PlayOnlineCasinoGame.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I Enter your first name as \"([^\"]*)\" in the form$",
+    "steps": [
+      {
+        "name": "I Enter your first name as \"John\" in the form",
+        "aggregatedDurations": {
+          "average": 1.809968101,
+          "median": 1.809968101
+        },
+        "durations": [
+          {
+            "duration": 1.809968101,
+            "location": "src/test/resources/features/PlayOnlineCasinoGame.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I Select a title as \"([^\"]*)\" from the dropdown$",
+    "steps": [
+      {
+        "name": "I Select a title as \"Mr\" from the dropdown",
+        "aggregatedDurations": {
+          "average": 1.1214423,
+          "median": 1.1214423
+        },
+        "durations": [
+          {
+            "duration": 1.1214423,
+            "location": "src/test/resources/features/PlayOnlineCasinoGame.feature:9"
+          }
+        ]
+      }
+    ]
+  }
+]

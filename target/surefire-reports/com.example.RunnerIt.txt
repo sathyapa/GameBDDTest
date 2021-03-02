@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.RunnerIt
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 123.41 s - in com.example.RunnerIt
